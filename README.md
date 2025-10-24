@@ -55,7 +55,7 @@ cp backend/.env.example backend/.env
 # ALLOWED_ORIGINS=http://localhost:3000
 ```
 
-### 2. 프론트엔드 설정
+### 2. 프론트엔드 설정 (이것만 하면됨!!!!!)
 
 ```bash
 # 의존성 설치
